@@ -15,7 +15,7 @@ To get started with the content in this repository, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/c-language-Note.git
+    git clone https://github.com/charitraa/c-language-Note.git
     ```
 
 2. **Navigate to the project directory:**
